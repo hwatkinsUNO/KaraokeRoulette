@@ -14,9 +14,9 @@ class Controller(QMainWindow, Ui_MainWindow):
         self.pushButton_Random.clicked.connect(lambda: self.random())
 
     def random(self):
-        i = random.randint(0, 515)
-        output = Song(artist_list[i])
-        print(f'{output.artist}')
+        # i = random.randint(0, 515)
+        # output = Song(artist_list[i])
+        print(f'Test')
     #self.label_Song.setText(output)
     # def output(self):
     #     print(
