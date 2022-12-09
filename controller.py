@@ -11,13 +11,13 @@ class Controller(QMainWindow, Ui_MainWindow):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.setupUi(self)
+
         self.pushButton_Random.clicked.connect(lambda: self.random())
 
     def random(self):
-        # i = random.randint(0, 515)
-        # output = Song(artist_list[i])
-        print(f'Test')
-    #self.label_Song.setText(output)
+        i = random.randint(0, 515)
+        output = i
+        self.label_Song.setText(f'{output}')
     # def output(self):
     #     print(
     #         f'"{title_list[i]}" by {artist_list[i]} ({year_list[i]})\nGenre:{genre_list[i]} Time Period:{time_period_list[i]}\n'
