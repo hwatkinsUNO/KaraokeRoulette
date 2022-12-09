@@ -74,6 +74,7 @@ class Ui_MainWindow(object):
         font.setFamily("Eras Bold ITC")
         font.setPointSize(12)
         self.label_Song.setFont(font)
+        self.label_Song.setAlignment(QtCore.Qt.AlignCenter)
         self.label_Song.setAutoFillBackground(False)
         self.label_Song.setFrameShape(QtWidgets.QFrame.Box)
         self.label_Song.setText("")
