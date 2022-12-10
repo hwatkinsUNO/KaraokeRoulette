@@ -5,7 +5,7 @@
 a-ha,Take on Me,Pop,80s,1985,"Get happy, Just dance",,Hard,Tenor
 Aaliyah,Are You That Somebody,R and B,90s,1998,"Swagger, Just dance",,Hard,Mezzo
 ABBA,Dancing Queen,Pop,70s,1976,"Just dance, Get happy",,Easy,Mezzo
-ABBA,I Have A Dream,Rock,70s,1979,Get happy,Group,Easy,Mezzo
+ABBA,I Have A Dream,Rock,70s,1979,Get happy,Duet,Easy,Mezzo
 ABBA,The Winner Takes It All,Pop,80s,1981,Bare your soul,,Medium,Mezzo
 ABBA,Mamma Mia,Stage and Screen,70s,1975,"Get happy, Just dance",,Medium,Mezzo
 AC/DC,Highway to Hell,Rock,70s,1979,"Rage on, Swagger",,Medium,Baritone
@@ -55,7 +55,7 @@ Billy Joel,Uptown Girl,Pop,80s,1983,Get happy,,Medium,Baritone
 Billy Joel,She’s Always a Woman,Pop,70s,1977,Bare your soul,,Hard,Tenor
 Billy Joel,Piano Man,Pop,70s,1973,Bare your soul,,Easy,Baritone
 Bishop Briggs,River,Pop,2010s and beyond,2016,Rage on,,Medium,Alto
-Blackstreet,No Diggity (feat. Dr. Dre and Queen Pen),R and B,90s,1996,"Swagger, Just dance",Group,Easy,Bass
+Blackstreet,No Diggity (feat. Dr. Dre and Queen Pen),R and B,90s,1996,"Swagger, Just dance",Duet,Easy,Bass
 Blondie,One Way Or Another,Rock,70s,1978,Swagger,,Medium,Alto
 Blondie,Heart Of Glass,Rock,70s,1978,"Just dance, Get happy",,Medium,Soprano
 Bob Dylan,Maggie’s Farm,Pop,60s and earlier,1965,"Swagger, Get happy",,Easy,Bass
@@ -100,14 +100,14 @@ Coldplay,Yellow,Pop,90s,1999,Bare your soul,,Easy,Tenor
 Coolio,Gangsta’s Paradise (feat. L.V.),Rap/Hip hop,90s,1995,Swagger,,Hard,Bass
 Creedence Clearwater Revival,Bad Moon Rising,Rock,60s and earlier,1969,Rage on,,Easy,Tenor
 Cyndi Lauper,Time After Time ,Pop,80s,1984,Get happy,,Medium,Soprano
-Danny Elfman,This is Halloween,Stage and Screen,80s,1983,Get happy,Group,Hard,Bass
+Danny Elfman,This is Halloween,Stage and Screen,80s,1983,Get happy,Duet,Hard,Bass
 David Bowie,Modern Love,Rock,80s,1983,"Just dance, Get happy",,Medium,Baritone
 David Bowie,Under Pressure,Rock,80s,1982,Get happy,,Medium,Baritone
 Def Leppard,Pour Some Sugar On Me,Rock,80s,1987,Swagger,,Medium,Baritone
 Deniece Williams,Let’s Hear It for the Boy (From Footloose Original Soundtrack),Stage and Screen,80s,1984,"Just dance, Swagger",,Medium,Mezzo
 Depeche Mode,People Are People,Pop,80s,1984,Just dance,,Easy,Bass
 Depeche Mode,Policy Of Truth,Pop,80s,1989,"Just dance, Bare your soul",,Easy,Bass
-Destiny’s Child,Say My Name,R and B,90s,1999,Swagger,Group,Hard,Mezzo
+Destiny’s Child,Say My Name,R and B,90s,1999,Swagger,Duet,Hard,Mezzo
 Destiny’s Child,Survivor,R and B,2000s,2000,Rage on,,Medium,Alto
 Diana Ross,I’m Coming Out,Pop,80s,1980,"Get happy, Just dance",,Medium,Soprano
 Diana Ross and Lionel Richie,Endless Love (From The Endless Love Soundtrack),Stage and Screen,2000s,2006,Bare your soul,Duet,Hard,"Mezzo, Baritone"
@@ -146,7 +146,7 @@ Fleetwood Mac,Landslide,Pop,70s,1975,Bare your soul,,Easy,Alto
 Fleetwood Mac,Dreams,Pop,70s,1977,Bare your soul,,Easy,Alto
 Flo Rida,My House,Rap/Hip hop,2010s and beyond,2015,Get happy,,Easy,Bass
 Florence + The Machine,Dog Days Are Over,Pop,2000s,2009,Bare your soul,,Hard,Mezzo
-Four Tops,Baby I Need Your Loving,R and B,60s and earlier,1964,Get happy,Group,Medium,Baritone
+Four Tops,Baby I Need Your Loving,R and B,60s and earlier,1964,Get happy,Duet,Medium,Baritone
 Frank Sinatra,My Way,Jazz,60s and earlier,1968,"Swagger, Get happy",,Medium,Bass
 Frank Sinatra,Fly Me To The Moon,Jazz,60s and earlier,1964,"Bare your soul, Get happy",,Hard,Bass
 Frank Sinatra and Nancy Sinatra,Somethin’ Stupid,Pop,60s and earlier,1967,Get happy,Duet,Easy,"Alto, Bass"
@@ -210,7 +210,7 @@ JP Saxe,If the World Was Ending (feat. Julia Michaels),Pop,2010s and beyond,2019
 Julie Andrews,My Favorite Things (from The Sound Of Music),Stage and Screen,60s and earlier,1965,Get happy,,Medium,Soprano
 "Julie Andrews, Charmian Carr, Heather Menzies, Nicholas Hammond, Duane Chase, Angela Cartwright, Debbie Turner and Kym Karath",The Lonely Goatherd,Stage and Screen,60s and earlier,1965,Get happy,,Hard,Soprano
 Justin Bieber,Love Yourself,Pop,2010s and beyond,2015,"Bare your soul, Rage on",,Easy,Bass
-Justin Bieber,Peaches (feat. Daniel Caesar and Giveon),Pop,2010s and beyond,2021,"Swagger, Get happy",Group,Medium,Baritone
+Justin Bieber,Peaches (feat. Daniel Caesar and Giveon),Pop,2010s and beyond,2021,"Swagger, Get happy",Duet,Medium,Baritone
 Justin Timberlake,Cry Me a River,Pop,2000s,2002,"Bare your soul, Just dance",,Medium,Tenor
 Justin Timberlake,Rock Your Body,Pop,2000s,2002,"Just dance, Get happy, Swagger",,Hard,Tenor
 Kai,Say You’ll Stay,R and B,2010s and beyond,2011,Bare your soul,,Easy,Baritone
@@ -268,7 +268,7 @@ Mark Ronson,Uptown Funk (feat. Bruno Mars),R and B,2010s and beyond,2014,"Just d
 Mark Ronson,Valerie (feat. Amy Winehouse),R and B,2000s,2007,"Just dance, Get happy",,Easy,Alto
 Maroon 5,Payphone (feat. Wiz Khalifa),Pop,2010s and beyond,2012,"Bare your soul, Just dance",Duet,Hard,Tenor
 Maroon 5,This Love,Rock,2000s,2002,Bare your soul,,Medium,Tenor
-Martha Reeves and The Vandellas,Nowhere To Run,Pop,60s and earlier,1965,"Swagger, Get happy, Just dance",Group,Easy,Alto
+Martha Reeves and The Vandellas,Nowhere To Run,Pop,60s and earlier,1965,"Swagger, Get happy, Just dance",Duet,Easy,Alto
 Marvin Gaye,Let’s Get It On,R and B,70s,1973,"Get happy, Just dance",,Hard,Tenor
 Marvin Gaye and Tammi Terrell,Ain’t No Mountain High Enough,R and B,60s and earlier,1967,"Just dance, Get happy",Duet,Hard,"Soprano, Tenor"
 MC5,Kick Out The Jams,Rock,60s and earlier,1969,"Rage on, Swagger",,Medium,Baritone
@@ -305,7 +305,7 @@ Once (Original Cast),Falling Slowly,Stage and Screen,2000s,2007,Bare your soul,D
 One Direction,Night Changes,Pop,2010s and beyond,2014,Bare your soul,Duet,Easy,Bass
 Original Broadway Cast of Hamilton,You’ll Be Back,Stage and Screen,2010s and beyond,2015,Get happy,,Medium,Baritone
 Otis Redding,(Sittin’ On) the Dock of the Bay,R and B,60s and earlier,1967,Bare your soul,,Easy,Bass
-Outkast,Hey Ya!,Rap/Hip hop,2000s,2003,"Get happy, Just dance",Group,Medium,Bass
+Outkast,Hey Ya!,Rap/Hip hop,2000s,2003,"Get happy, Just dance",Duet,Medium,Bass
 Owl City,Fireflies,Pop,2000s,2009,Get happy,,Medium,Tenor
 P!nk,Just Give Me a Reason (feat. Nate Ruess),Pop,2010s and beyond,2012,Bare your soul,Duet,Medium,"Soprano, Tenor"
 P!nk,Raise Your Glass,Pop,2010s and beyond,2010,"Get happy, Just dance",,Hard,Soprano
@@ -317,7 +317,7 @@ Patsy Cline,Walkin’ After Midnight,Country,60s and earlier,1957,Bare your soul,,
 Patsy Cline,Crazy,Country,60s and earlier,1961,Bare your soul,,Easy,Mezzo
 Paul McCartney,Maybe I’m Amazed,Rock,70s,1970,"Bare your soul, Get happy",,Hard,Tenor
 Pearl Jam,Last Kiss,Rock,90s,1998,Bare your soul,,Easy,Baritone
-Peggy Lee,Why Don’t You Do Right (Get Me Some Money Too),Stage and Screen,60s and earlier,1947,Swagger,,Easy,Alto
+Peggy Lee,Why Don’t You Do Right,Stage and Screen,60s and earlier,1947,Swagger,,Easy,Alto
 Peter Cetera,Glory of Love,Pop,80s,1986,Bare your soul,,Hard,Tenor
 "Peter, Paul and Mary",Leaving On A Jet Plane,Folk,60s and earlier,1967,Bare your soul,,Easy,Alto
 Phil Collins,Against All Odds (Take a Look at Me Now),Pop,80s,1984,Bare your soul,,Easy,Baritone
@@ -328,11 +328,11 @@ Philip Bailey and Phil Collins,Easy Lover,Pop,80s,1984,Just dance,Duet,Hard,Teno
 Post Malone,Better Now,Rap/Hip hop,2010s and beyond,2018,"Bare your soul, Just dance",,Medium,Baritone
 Prince,When Doves Cry,R and B,80s,1984,"Just dance, Swagger",,Medium,Baritone
 Puddle Of Mudd,Blurry,Rock,2000s,2001,"Bare your soul, Rage on",,Medium,Baritone
-Queen,Bohemian Rhapsody,Rock,70s,1975,"Swagger, Bare your soul, Rage on",Group,Hard,Tenor
-Queen,Don’t Stop Me Now,Rock,70s,1978,"Just dance, Get happy",Group,Hard,Tenor
+Queen,Bohemian Rhapsody,Rock,70s,1975,"Swagger, Bare your soul, Rage on",Duet,Hard,Tenor
+Queen,Don’t Stop Me Now,Rock,70s,1978,"Just dance, Get happy",Duet,Hard,Tenor
 Queen and David Bowie,Under Pressure,Rock,80s,1982,Bare your soul,Duet,Hard,Tenor
 Radiohead,Creep,Rock,90s,1993,Bare your soul,,Easy,Baritone
-Ray Charles,Hit the Road Jack,R and B,60s and earlier,1962,Rage on,Group,Easy,Alto
+Ray Charles,Hit the Road Jack,R and B,60s and earlier,1962,Rage on,Duet,Easy,Alto
 Red Hot Chili Peppers,Under the Bridge,Rock,90s,1991,Bare your soul,,Easy,Bass
 Red Hot Chili Peppers,Californication,Rock,90s,1999,"Bare your soul, Get happy",,Medium,Baritone
 Original Motion Picture Cast of RENT,One Song Glory,Stage and Screen,2000s,2005,Bare your soul,,Medium,Baritone
@@ -344,7 +344,7 @@ Rihanna,Take A Bow,Pop,2000s,2008,"Swagger, Rage on",,Medium,Mezzo
 Rihanna,Umbrella (feat. JAY-Z),Pop,2000s,2007,"Just dance, Get happy",,Easy,Mezzo
 Rihanna,Pon de Replay,Pop,2000s,2005,"Get happy, Just dance",,Easy,Alto
 Robert Palmer,Addicted To Love,R and B,80s,1985,Swagger,,Medium,Baritone
-"Rosario Dawson, Taye Diggs, Idina Menzel, Jesse L. Martin, Adam Pascal, Tracie Thoms, Anthony Rapp and Wilson Jermaine Heredia",Seasons of Love,Stage and Screen,2000s,2005,Get happy,Group,Medium,Soprano
+"Rosario Dawson, Taye Diggs, Idina Menzel, Jesse L. Martin, Adam Pascal, Tracie Thoms, Anthony Rapp and Wilson Jermaine Heredia",Seasons of Love,Stage and Screen,2000s,2005,Get happy,Duet,Medium,Soprano
 Sade,Smooth Operator,Pop,80s,1984,Bare your soul,,Easy,Alto
 Salt-N-Pepa,Shoop,Rap/Hip hop,90s,1993,"Just dance, Get happy",Duet,Hard,Mezzo
 Sam Cooke,Bring It On Home To Me,R and B,60s and earlier,1958,"Bare your soul, Swagger",,Easy,Tenor
@@ -378,7 +378,7 @@ Smash Mouth,All Star,Rock,90s,1999,"Get happy, Swagger",,Medium,Baritone
 Snoop Dogg,Drop It Like It’s Hot (feat. Pharrell Williams),Rap/Hip hop,2000s,2004,Swagger,,Easy,Bass
 Soft Cell,Tainted Love,Pop,80s,1981,"Just dance, Rage on",,Easy,Baritone
 Sonny and Cher,I Got You Babe,Pop,60s and earlier,1965,Get happy,Duet,Easy,"Mezzo, Baritone"
-Spice Girls,Wannabe,Pop,90s,1996,"Swagger, Just dance",Group,Medium,Mezzo
+Spice Girls,Wannabe,Pop,90s,1996,"Swagger, Just dance",Duet,Medium,Mezzo
 Staind,It’s Been Awhile,Rock,2000s,2001,"Bare your soul, Rage on",,Medium,Bass
 Starship,Nothing’s Gonna Stop Us Now,Rock,80s,1987,"Bare your soul, Get happy",,Medium,Tenor
 Stevie Nicks,Edge of Seventeen,Pop,80s,1981,"Rage on, Bare your soul",,Medium,Soprano
@@ -404,7 +404,7 @@ Tennessee Ernie Ford,Sixteen Tons,Pop,60s and earlier,1955,Swagger,,Medium,Bass
 The All-American Rejects,Gives You Hell,Rock,2000s,2008,"Rage on, Swagger",,Medium,Baritone
 The Alley Cats (R and B),Unchained Melody,Pop,60s and earlier,1962,Bare your soul,,Hard,Tenor
 The B-52’s,Love Shack,Rock,80s,1989,"Just dance, Get happy",Duet,Medium,"Mezzo, Baritone"
-The Band,The Weight,Pop,60s and earlier,1968,"Get happy, Bare your soul",Group,Easy,Baritone
+The Band,The Weight,Pop,60s and earlier,1968,"Get happy, Bare your soul",Duet,Easy,Baritone
 The Bangles,Eternal Flame,Pop,80s,1989,Bare your soul,,Medium,Mezzo
 The Beach Boys,Good Vibrations,Pop,60s and earlier,1966,Get happy,,Hard,Tenor
 The Beach Boys,Surfer Girl,Pop,60s and earlier,1963,"Get happy, Bare your soul",,Hard,Tenor
@@ -413,8 +413,8 @@ The Beach Boys,Wouldn’t It Be Nice,Pop,60s and earlier,1966,Get happy,,Hard,Bari
 The Beatles,Come Together,Rock,60s and earlier,1969,Swagger,,Medium,Baritone
 The Beatles,Hey Jude,Rock,60s and earlier,1969,Bare your soul,,Easy,Baritone
 The Beatles,Let It Be,Pop,60s and earlier,1969,Bare your soul,,Medium,Baritone
-The Beatles,All My Loving,Rock,60s and earlier,1964,Get happy,Group,Medium,Baritone
-The Beatles,Twist And Shout,Pop,60s and earlier,"Get happy, Just dance","Get happy, Just dance",Group,Easy,Tenor
+The Beatles,All My Loving,Rock,60s and earlier,1964,Get happy,Duet,Medium,Baritone
+The Beatles,Twist And Shout,Pop,60s and earlier,"Get happy, Just dance","Get happy, Just dance",Duet,Easy,Tenor
 The Beatles,Helter Skelter,Pop,60s and earlier,1968,Rage on,,Hard,Baritone
 The Cardigans,Lovefool,Pop,90s,1996,"Just dance, Bare your soul",,Medium,Mezzo
 The Chainsmokers,Closer (feat. Halsey),Dance,2010s and beyond,2016,Get happy,Duet,Medium,Baritone
@@ -431,7 +431,7 @@ The Human League,Don’t You Want Me,Pop,80s,1981,"Get happy, Just dance",Duet,Eas
 The Killers,Mr. Brightside,Rock,2000s,2004,"Bare your soul, Just dance",,Medium,Baritone
 The Knack,My Sharona,Rock,70s,1979,"Just dance, Swagger",,Easy,Bass
 The Mamas and The Papas,Dream A Little Dream Of Me,Pop,60s and earlier,1968,Get happy,,Medium,Mezzo
-The Mamas and The Papas,California Dreamin’,Pop,60s and earlier,1966,Bare your soul,Group,Medium,Baritone
+The Mamas and The Papas,California Dreamin’,Pop,60s and earlier,1966,Bare your soul,Duet,Medium,Baritone
 The Monkees,Daydream Believer,Pop,60s and earlier,1967,Get happy,,Hard,Baritone
 The Pretenders,I’ll Stand by You,Rock,90s,1994,"Bare your soul, Get happy",,Medium,Mezzo
 The Proclaimers,I’m Gonna Be (500 Miles),Pop,2000s,2002,Get happy,,Medium,Baritone
@@ -441,8 +441,8 @@ The Rolling Stones,"Paint It, Black",Pop,60s and earlier,1966,Rage on,,Easy,Bass
 The Rolling Stones,When The Whip Comes Down,Rock,70s,1978,"Swagger, Just dance",,Easy,Baritone
 The Ronettes,Be My Baby,Pop,60s and earlier,1963,Get happy,,Medium,Mezzo
 The Smashing Pumpkins,Bullet With Butterfly Wings,Pop,90s,1995,Rage on,,Medium,Baritone
-The Supremes,You Keep Me Hangin’ On,Pop,60s and earlier,1966,"Rage on, Get happy",Group,Easy,Soprano
-The Supremes,You Can’t Hurry Love,R and B,60s and earlier,1966,Get happy,Group,Medium,Mezzo
+The Supremes,You Keep Me Hangin’ On,Pop,60s and earlier,1966,"Rage on, Get happy",Duet,Easy,Soprano
+The Supremes,You Can’t Hurry Love,R and B,60s and earlier,1966,Get happy,Duet,Medium,Mezzo
 The Verve,Bitter Sweet Symphony,Rock,90s,1997,Bare your soul,,Easy,Baritone
 The Weather Girls,It’s Raining Men,R and B,80s,1982,"Just dance, Swagger",Duet,Hard,Soprano
 The Weeknd,Can’t Feel My Face,R and B,2010s and beyond,2015,"Just dance, Bare your soul",,Medium,Tenor
@@ -455,8 +455,8 @@ Third Eye Blind,Semi-Charmed Life,Rock,90s,1997,"Just dance, Get happy",,Medium,
 Three Dog Night,One,Rock,60s and earlier,1969,Bare your soul,,Medium,Baritone
 Tina Turner,Proud Mary,R and B,90s,1993,Swagger,,Hard,Soprano
 Tina Turner,What’s Love Got To Do With It,Pop,80s,1984,Bare your soul,,Hard,Mezzo
-TLC,Waterfalls,R and B,90s,1994,"Bare your soul, Swagger",Group,Easy,Alto
-TLC,No Scrubs,R and B,90s,1999,"Swagger, Just dance",Group,Medium,Mezzo
+TLC,Waterfalls,R and B,90s,1994,"Bare your soul, Swagger",Duet,Easy,Alto
+TLC,No Scrubs,R and B,90s,1999,"Swagger, Just dance",Duet,Medium,Mezzo
 Tom Jones,It’s Not Unusual,Pop,60s and earlier,1967,Get happy,,Medium,Tenor
 Toni Braxton,Un-Break My Heart,R and B,90s,1996,Bare your soul,,Medium,Alto
 Toto,Africa,Pop,80s,1982,Just dance,,Hard,Tenor
